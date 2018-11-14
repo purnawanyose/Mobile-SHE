@@ -30,7 +30,6 @@ import RoundedButton from '../components/RoundedButton';
 
 const shelogo = require('../../assets/images/shelogo.png'); 
 
-
 export default class LoggedOut extends Component {
     constructor(props) {
         super(props);
